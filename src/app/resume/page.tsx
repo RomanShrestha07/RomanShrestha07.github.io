@@ -27,11 +27,15 @@ export default function Resume() {
 
                                 <div className="space-y-5">
                                     <div className="w-8/12">
-                                        <h3 className="text-xl font-bold">Patient Watch Officer - Paladin Security</h3>
+                                        <h3 className="text-xl font-bold">Healthcare Security (Patient Watch) - Paladin
+                                            Security</h3>
+
                                         <p className="text-gray-600">Wayburne Drive, Burnaby, B.C, Canada | April 2024
                                             – Present</p>
-                                        <ul className="list-disc list-inside mt-2 text-justify">
-                                            <li>Effectively managed patients with a high risk of elopement by staying
+
+                                        <ul className="list-disc list-outside mt-2 ml-10 text-justify">
+                                            <li>Effectively managed patients with a high risk of
+                                                elopement by staying
                                                 vigilant, knowing the layout of the wards, and following the patients
                                                 closely while providing updates to site security and healthcare staff
                                                 successfully ensuring the patients remain within the secure area.
@@ -56,10 +60,45 @@ export default function Resume() {
                                     </div>
 
                                     <div className="w-8/12">
-                                        <h3 className="text-xl font-bold">Salesclerk - Chicko Chicken</h3>
+                                        <h3 className="text-xl font-bold">Full-Stack Developer (Research Assistant) -
+                                            Langara College</h3>
+
+                                        <p className="text-gray-600">49th Avenue, Vancouver, B.C, Canada | April 2024
+                                            – January 2025</p>
+
+                                        <ul className="list-disc list-outside mt-2 ml-10 text-justify">
+                                            <li>Developed custom Python scripts within a Django framework to generate
+                                                dynamic Excel reports by extracting and processing data from SQL tables,
+                                                enabling streamlined and automated reporting for stakeholders.
+                                            </li>
+                                            <li>Conducted rigorous system acceptance testing by partnering with project
+                                                users to identify and resolve defects, ensuring the system performed as
+                                                intended and met quality standards.
+                                            </li>
+                                            <li>Resolved numerous bugs in an MS Power App for healthcare data
+                                                processing, enhancing application stability, functionality, and user
+                                                experience while ensuring accurate and efficient data workflows.
+                                            </li>
+                                            <li>Optimized the MS Power App healthcare data processing workflows by
+                                                analyzing existing processes, identifying inefficiencies, and
+                                                implementing streamlined solutions, resulting in improved application
+                                                performance and operational efficiency.
+                                            </li>
+                                            <li>Documented system workflows and development processes by creating
+                                                detailed technical documentation and user guides, enabling seamless
+                                                knowledge transfer and future maintenance of the system.
+                                            </li>
+                                        </ul>
+                                    </div>
+
+                                    <div className="w-8/12">
+                                        <h3 className="text-xl font-bold">Salesclerk - Chicko Chicken/Austin
+                                            Chicken</h3>
+
                                         <p className="text-gray-600">Austin Avenue, Coquitlam, B.C, Canada | September
-                                            2023 – Present</p>
-                                        <ul className="list-disc list-inside mt-2 text-justify">
+                                            2023 – September 2024</p>
+
+                                        <ul className="list-disc list-outside mt-2 ml-10 text-justify">
                                             <li>Provided exceptional customer service by greeting and assisting
                                                 customers with inquiries, product selection, and purchases in-person and
                                                 on-call, resulting in increased customer satisfaction ratings and repeat
@@ -89,9 +128,11 @@ export default function Resume() {
                                     <div className="w-8/12">
                                         <h3 className="text-xl font-bold">Software Engineer II - Treeleaf
                                             Technologies</h3>
+
                                         <p className="text-gray-600">Lalitpur, Bagmati, Nepal | January 2022 – July
                                             2023</p>
-                                        <ul className="list-disc list-inside mt-2 text-justify">
+
+                                        <ul className="list-disc list-outside mt-2 ml-10 text-justify">
                                             <li>Implemented a comprehensive suite of graphing and charting
                                                 functionalities within a commercial grade ReactJS project by equipping
                                                 it with powerful data visualization tools to present complex information
@@ -120,9 +161,11 @@ export default function Resume() {
 
                                     <div className="w-8/12">
                                         <h3 className="text-xl font-bold">Frontend Wed Developer - Envoke Tech</h3>
+
                                         <p className="text-gray-600">Lalitpur, Bagmati, Nepal | February 2021 – January
                                             2022</p>
-                                        <ul className="list-disc list-inside mt-2 text-justify">
+
+                                        <ul className="list-disc list-outside mt-2 ml-10 text-justify">
                                             <li>Led the front-end development of a Food Delivery Web Application using
                                                 ReactJS by writing 70% of the code, driving the project to successful
                                                 completion resulting in an accessible user-friendly interface.
@@ -148,12 +191,15 @@ export default function Resume() {
                                 <div className="space-y-5">
                                     <div>
                                         <h3 className="text-xl font-bold">Post Degree Diploma - Data Analytics</h3>
+                                        <p className="text-gray-500 italic text-sm">Dean's Honor Roll - Graduated with
+                                            Distinction</p>
                                         <p className="text-gray-600">Langara College, Vancouver, B.C, Canada | September
-                                            2023 – Present</p>
+                                            2023 – January 2025</p>
                                     </div>
 
                                     <div>
                                         <h3 className="text-xl font-bold">Bachelor of Science (Hons) - Computing</h3>
+                                        <p className="text-gray-500 italic text-sm">First Class Honors</p>
                                         <p className="text-gray-600">London Metropolitan University, London, UK |
                                             February 2019 – January 2022</p>
                                     </div>

@@ -2,9 +2,9 @@
 
 import {Typography, Button} from "@material-tailwind/react";
 import {
-    ChartBarIcon,
-    PuzzlePieceIcon,
-    CursorArrowRaysIcon,
+    BookOpenIcon,
+    ComputerDesktopIcon,
+    ChartPieIcon,
     ArrowRightIcon,
 } from "@heroicons/react/24/solid";
 import {ResumeItem} from "@/components";
@@ -12,16 +12,16 @@ import {useRouter} from "next/navigation";
 
 const RESUME_ITEMS = [
     {
-        icon: ChartBarIcon,
+        icon: BookOpenIcon,
+        children: "Post-Degree Diploma in Data Analytics",
+    },
+    {
+        icon: ComputerDesktopIcon,
         children: "Bachelor of Science (Honors) in Computing",
     },
     {
-        icon: PuzzlePieceIcon,
+        icon: ChartPieIcon,
         children: "Software Developer & Data Analyst",
-    },
-    {
-        icon: CursorArrowRaysIcon,
-        children: "Frontend Framework Proficiency Certification",
     },
 ];
 
